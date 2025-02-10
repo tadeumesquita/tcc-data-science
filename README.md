@@ -27,6 +27,7 @@ O principal objetivo do estudo é identificar padrões em decisões judiciais e 
 - **Processamento de PDFs** para extração dos dados judiciais
 - **GitHub** para versionamento do código
 
+<!--
 ## Como Executar o Projeto
 1. Clone o repositório:
    ```sh
@@ -50,6 +51,8 @@ O principal objetivo do estudo é identificar padrões em decisões judiciais e 
 |-- README.md               # Apresentação do projeto
 |-- requirements.txt        # Dependências do projeto
 ```
+-->
+
 
 ## Contribuição
 Se você deseja contribuir com melhorias no código ou na análise, sinta-se à vontade para abrir um Pull Request.
